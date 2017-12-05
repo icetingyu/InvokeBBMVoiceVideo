@@ -1,4 +1,4 @@
-InvokeBBMVoiceVideo
+InvokeBBMVoiceVideo  [BlackBerry 10 Cascades]
 ===================
 
 A sample project for invoking BBMVoice or BBMVideo
